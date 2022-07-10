@@ -10,3 +10,9 @@ A simple program that adds a record to a new index, searches the index, and prin
 # go 1.18+
 go get github.com/dosanma1/go-algolia-example
 ```
+
+Replace `YourWriteAPIKey` with your Admin API key.
+
+```sh
+go run main.go
+```
